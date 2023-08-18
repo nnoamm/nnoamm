@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **a discord public bot!**
 
-- 🌱 I’m currently learning **Lua.**
+- 🌱 I’m currently learning **Python.**
 
 - 💬 Ask me about **everything you want and i will try to help you!**
 
 - 📫 How to reach me **noamproject12@gmail.com**
 
-- ⚡ Fun fact **i know C#,python,js,html,java.**
+- ⚡ Fun fact **i know C#,lua,js,html,java.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

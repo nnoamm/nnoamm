@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnoamm" alt="nnoamm" /></a> </p>
 
-- 🔭 I’m currently working on **a discord public bot!**
+- 🔭 I’m currently working on **a public discord bot!**
 
 - 🌱 I’m currently learning **Python.**
 
